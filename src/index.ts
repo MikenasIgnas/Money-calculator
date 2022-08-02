@@ -135,3 +135,4 @@ submitButton.addEventListener('click', () => {
     removeStyle(taxesInput);
   }
 });
+console.log('AAAAA');

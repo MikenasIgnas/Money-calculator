@@ -1,5 +1,5 @@
 {
-  "include": ["src", "types"],
+  "include": ["src/index.ts", "types"],
   "compilerOptions": {
     "module": "esnext",
     "target": "esnext",
@@ -27,3 +27,4 @@
     "useDefineForClassFields": true
   }
 }
+
