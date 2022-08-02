@@ -28,6 +28,6 @@ export default {
     /* ... */
   },
   buildOptions: {
-    out: '../build/dist',
+    // out: '../build/dist',
   },
 };
